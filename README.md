@@ -2,7 +2,7 @@
 
 ## Rocio AGUIRRE-HERNANDEZ
 
-## MyString Project
+## Polymorphism Project
 This project demonstrates the concept of polymorphism in C++ through the implementation of a abstract base class `Character` and two derived classes: `Mario` and `Yoshi`. The project involves implementing constructors, destructors, member functions, pure virtual functions, and testing their behavior in a polymorphic context.
 
 ### File Structure
